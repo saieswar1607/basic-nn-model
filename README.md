@@ -101,13 +101,18 @@ my_brain.predict(input_scaled)
 ```
 ## Dataset Information:
 
-<img width="138" alt="image" src="https://github.com/Pavan-Gv/basic-nn-model/assets/94827772/21d61956-2559-465a-8c8b-ac0f1d11e652">
+<img width="137" alt="image" src="https://github.com/Pavan-Gv/basic-nn-model/assets/94827772/6090a65f-2e88-446b-9a0d-88c791ab0e2b">
 
 ## OUTPUT:
+
+### Input & Output Data :
+
+<img width="229" alt="image" src="https://github.com/Pavan-Gv/basic-nn-model/assets/94827772/e62a9912-2923-4544-b68c-ea90c0815ef9">
 
 ### Training Loss Vs Iteration Plot
 
 <img width="327" alt="image" src="https://github.com/Pavan-Gv/basic-nn-model/assets/94827772/d2cf233c-906c-4cd3-a0bf-0b6569a3898d">
+
 
 ### Test Data Root Mean Squared Error
 
